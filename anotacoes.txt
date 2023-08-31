@@ -1,0 +1,4 @@
+Anotações
+
+// 31/08/2023
+1. No C++, é preciso ter cuidado ao implementar funções, pois se as funções foram implementadas antes do main(), estas precisaram ser chamadas em ordem para não dar erro no programa. O ideal é fazer o protótipo das funções antes do main() e depois a implementação e então chama-las.
